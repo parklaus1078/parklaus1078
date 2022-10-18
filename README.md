@@ -13,4 +13,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parklaus1078&show_icons=true&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?text=console.log(Hello, World)&fontColor=white&type=egg&color=9966FF&animation=blink&fontSize=30"
+<img src="https://capsule-render.vercel.app/api?text=console.log(Hello World)&fontColor=white&type=egg&color=9966FF&animation=blink&fontSize=30"
