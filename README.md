@@ -1,5 +1,5 @@
-## Tech Stacks
-### I have experience of working with ...
+## ⚒Tech Stacks
+### I have experience of working with
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
@@ -10,3 +10,4 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
 </p>
+
