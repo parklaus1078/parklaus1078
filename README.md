@@ -1,4 +1,4 @@
-## console.log(Hello, World)
+## <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=console.log(Hello, World)%20render&fontSize=70" />
 ### I have experience of working with
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
@@ -13,7 +13,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parklaus1078&show_icons=true&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?text=console.log(Hello, World)&fontColor=FFFFFF&type=wave&color=9966FF&animation=blink&fontSize=30"/></a>&nbsp
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello, World%20render&fontSize=90)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
