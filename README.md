@@ -15,3 +15,5 @@
 
 <img src="https://capsule-render.vercel.app/api?text=console.log(Hello, World)&fontColor=FFFFFF&type=wave&color=9966FF&animation=blink&fontSize=30"/></a>&nbsp
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello, World%20render&fontSize=90)
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
