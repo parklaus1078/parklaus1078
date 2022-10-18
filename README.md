@@ -1,4 +1,4 @@
-## <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=console.log(HelloWorld)%20render&fontSize=70" />
+## <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=console.log(Hello, World)&fontSize=70" />
 ### I have experience of working with
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FF9900?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
