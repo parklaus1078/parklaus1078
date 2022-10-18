@@ -11,4 +11,4 @@
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parklaus1078&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parklaus1078&show_icons=true&theme=tokyonight)
