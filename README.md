@@ -29,5 +29,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parklaus1078&show_icons=true&theme=tokyonight)
-
-![snake gif](https://github.com/parklaus1078/parklaus1078/blob/output/github-contribution-grid-snake.svg)
