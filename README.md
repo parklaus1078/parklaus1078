@@ -16,7 +16,7 @@ https://parklaus1078.notion.site/Geun-Woo-Kay-Park-s-Dev-Record-67a59c73f017431e
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
 </p>
 
 ### Tools
@@ -29,7 +29,7 @@ https://parklaus1078.notion.site/Geun-Woo-Kay-Park-s-Dev-Record-67a59c73f017431e
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=flat-square&logo=Microsoft Word&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>&nbsp
