@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FFFF99&height=300&section=header&text=console.log(Welcome)&fontSize=70&animation=blink" />
 
 ## BLOG ##
-https://parklaus1078.notion.site/Geun-Woo-Kay-Park-s-Dev-Record-67a59c73f017431e8183ebe2dc594be7
+[To my medium blog](https://medium.com/@parklaus1078)
 
 ## 🛠 Tech. Stacks 🛠
 
