@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Java-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-F05138?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 
 </p>
 
