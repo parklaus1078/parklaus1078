@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=3776AB&height=300&section=header&text=print(Welcome)&fontSize=70&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=3776AB&height=300&section=header&text=print(Welcome)&fontSize=70&fontColor=FFFFFF&animation=blink" />
 
 ## BLOG ##
 [To my tech blog](https://medium.com/@parklaus1078)
